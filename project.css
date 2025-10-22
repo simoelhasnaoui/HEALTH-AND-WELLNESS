@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f9f0;
+
+}
+
+h1, h2 {
+    font-weight: 700;
+    color: #333;
+
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333;
+
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #555;
+
+}
+
+blockquote {
+    font-size: 1.25rem;
+    color: #6c757d;
+    border-left: 4px solid #28a745;
+    padding-left: 15px;
+
+
+}
+
+.list-group-item:hover {
+    background-color: #e9fbe9;
+
+}
+
+#faq{
+    border-left: 4px solid #28a745;
+    padding-left: 15px;
+    
+}
